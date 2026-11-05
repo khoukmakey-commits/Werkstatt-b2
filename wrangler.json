@@ -1,0 +1,9 @@
+{
+  "name": "werkstatt-b2-ai",
+  "main": "worker.js",
+  "compatibility_date": "2026-11-05",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  }
+}
